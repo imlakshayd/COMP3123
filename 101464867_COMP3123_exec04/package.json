@@ -1,0 +1,20 @@
+{
+  "name": "101464867_comp3123_exec04",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "Lakshay Dhawan",
+  "license": "ISC",
+  "description": "COMP3123 Exercise 4",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  },
+  "dependencies": {
+    "express": "^4.19.0"
+  }
+}
